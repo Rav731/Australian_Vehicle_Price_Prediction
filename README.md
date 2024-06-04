@@ -4,3 +4,6 @@ This model is helpful both for the used car buyers and sellers for predicting th
 
 Dataset link: https://www.kaggle.com/datasets/nelgiriyewithana/australian-vehicle-prices/
 
+For the purpose of checkinh the Code and Accuracy of the model, please open "Australian_Vehicle_Price_Prediction.ipynb" file
+
+And Please do ⭐ the repository.
